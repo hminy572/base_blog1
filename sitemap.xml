@@ -22,6 +22,11 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/base-blog1/blog/sixthpost/</loc>
+		<lastmod>2025-06-08</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/base-blog1/about/</loc>
 		<lastmod>2025-06-08</lastmod>
 	</url>
@@ -47,7 +52,7 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/base-blog1/blog/sixthpost/</loc>
+		<loc>https://example.com/base-blog1/blog/seventhpost/</loc>
 		<lastmod>2025-06-09</lastmod>
 	</url>
 </urlset>
