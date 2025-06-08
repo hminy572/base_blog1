@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+BioPolitics is a game where creatures behave like they are highly socialized agent.
